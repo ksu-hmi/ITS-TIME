@@ -2,7 +2,7 @@
 
 ## Project Week 1
 - [ ] Log into GitHub using invitation 
-- [ ] Add Readme page with description of project
+- [x ] Add Readme page with description of project
 - [x] Run code found in initial research
 - [ ] (create) Name code (First,Last)
 - [ ] Discover medication Input code(strength and possible directions)
