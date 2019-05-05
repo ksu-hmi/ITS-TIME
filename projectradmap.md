@@ -1,7 +1,7 @@
 
 #Tasks to complete
 
-- [x]Run code found in initial research
+- [ ] Run code found in initial research
 
     *(create) Name code (First,Last)
     *Discover medication Input code(strength and possible directions)
