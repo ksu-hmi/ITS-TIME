@@ -1,7 +1,7 @@
 
 #Tasks to complete
 
-- [ ] Run code found in initial research
+- [x] Run code found in initial research
 - [ ] (create) Name code (First,Last)
 - [ ] Discover medication Input code(strength and possible directions)
 - [ ] Discover some type of alarm, may get this code from a classmate!
