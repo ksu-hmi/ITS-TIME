@@ -22,6 +22,6 @@
 
 ## Project Week 3
 - [x] Create single PPT slide to market this project/software [IN PROGRESS - Both]
-- [ ] Upload the PPT slide to GitHub repository [IN PROGRESS - Melissa]
+- [x] Upload the PPT slide to GitHub repository [IN PROGRESS - Melissa]
 - [x] Work on code some more [DONE - Both]
 - [ ] Present Final Project to class on Monday May 6 & then time to CELEBRATE with the class as semester completed [IN PROGRESS - Both]
