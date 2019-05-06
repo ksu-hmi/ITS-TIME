@@ -40,7 +40,7 @@ def print_menu():  # Your menu design here
     print()
 
     option = input("""
-            1. Aadd A Medication
+            1. Add A Medication
             2. Delete A Medication
             3. Review Your Medication List
             4. Set an Alarm for Medication
