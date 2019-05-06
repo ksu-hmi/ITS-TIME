@@ -20,7 +20,7 @@ while True:
     attempts += 1
     if attempts == 3:
         print("Too many incorrect attempts. Goodbye")
-        break
+        exit()
     else:
         if usern == username and userp == password:
             print("\nAccess Granted. Welcome " + username)
