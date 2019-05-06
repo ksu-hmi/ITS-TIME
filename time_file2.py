@@ -63,7 +63,7 @@ elif choice == 3:
 elif choice == 4:
     print ("Set an Alarm for Medication")
 
-    alarm_HH = input("Enter the hour you want to take the medication: ")
+    alarm_HH = input("Enter the hour you want to take the medication - in 24 hour format: ")
     alarm_MM = input("Enter the minute you want to take the medication: ")
 
 #    print("You want to take " + medication_name + " at " + alarm_HH + ":" + alarm_MM)
