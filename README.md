@@ -29,3 +29,6 @@ https://github.com/nkrishn9/TakeYourPills/blob/master/pills.py
 description: Take Your Pills. code gives time of day to take medication
 #Struct for basic medication.
 #Time is int of minutes past midnight
+
+
+Project by: Melissa Hudson and Ronda Broome
